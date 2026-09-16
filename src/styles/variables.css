@@ -1,0 +1,31 @@
+:root {
+  /* Legitimate London Arms Theme Colors */
+  --color-primary: #CD3A32;
+  --color-secondary: #10442E;
+  --color-accent: #A73230;
+  --color-mahogany: #833930;
+  --color-cream: #FAF2E8;
+  --color-gold: #D5B750;
+  --color-gold-hover: #bfa03e;
+  --color-text: #222222;
+  --color-text-muted: #555555;
+  --color-white: #FFFFFF;
+  --color-border: #e2d7c7;
+
+  /* Typography */
+  --font-argent: "Argent CF Font Family", "Libre Baskerville", Georgia, serif;
+  --font-heading: "Argent CF Font Family", "Cormorant Garamond", Georgia, serif;
+  --font-body: "Argent CF Font Family", "Libre Baskerville", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-script: "Tangerine", cursive;
+
+  /* Layout dimensions */
+  --sidebar-width: 300px;
+  --header-mobile-height: 70px;
+  --container-max-width: 1140px;
+  --content-max-width: 1140px;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}

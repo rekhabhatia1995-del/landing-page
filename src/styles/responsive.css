@@ -1,0 +1,11 @@
+/* Fine-tuned responsive helpers */
+@media (max-width: 640px) {
+  .section-spacing {
+    padding-top: 45px;
+    padding-bottom: 45px;
+  }
+
+  .ornate-divider {
+    max-width: 240px;
+  }
+}
